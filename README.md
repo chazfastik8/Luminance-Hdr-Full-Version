@@ -231,3 +231,6 @@ This repository serves as the official landing page for **Luminance HDR**. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Luminance HDR today!**
+
+---
+**Last updated:** 2026-09-08 17:40:26 UTC
