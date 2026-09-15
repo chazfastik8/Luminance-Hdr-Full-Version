@@ -233,4 +233,4 @@ This repository serves as the official landing page for **Luminance HDR**. The s
 **Get the most recent version of Luminance HDR today!**
 
 ---
-**Last updated:** 2026-09-15 17:57:29 UTC
+**Last updated:** 2026-09-15 20:50:21 UTC
